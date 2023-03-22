@@ -143,7 +143,7 @@ For Each ws In Worksheets
 
             Next i
             
-             ' Goes to the next workheetto run through all the loops procedurely
+' Goes to the next work sheet to run through all the loops procedurely
             
            Next ws
 
